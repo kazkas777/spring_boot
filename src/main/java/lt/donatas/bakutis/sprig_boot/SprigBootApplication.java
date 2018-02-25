@@ -8,5 +8,7 @@ public class SprigBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprigBootApplication.class, args);
+
+		///jpa
 	}
 }
